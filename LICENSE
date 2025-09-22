@@ -1,0 +1,31 @@
+This program -Space Merchant- is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+### Additional Terms (§7 of AGPL-3.0):
+
+As an express condition for using, modifying, or redistributing this software, all copies and substantial portions of the software must include clear and visible attribution to the original author.
+
+**Attribution Requirement:**
+
+Any redistribution or derivative work (including modified versions or forks) must prominently display the following credit:
+
+> “Originally developed by Antoine Perrin, available under AGPL-3.0 License.”
+
+This attribution must appear:
+- In any user interface of the software (if applicable),
+- In the README or documentation,
+- And in any online presentation (e.g., website or repository page).
+
+The author reserves the right to enforce this clause under the terms of the AGPL-3.0.
